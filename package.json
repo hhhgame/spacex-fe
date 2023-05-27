@@ -13,6 +13,8 @@
     "@emotion/styled": "^11.11.0",
     "@mantine/core": "^6.0.11",
     "@mantine/hooks": "^6.0.11",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/joy": "^5.0.0-alpha.81",
     "@mui/lab": "^5.0.0-alpha.130",
     "@mui/material": "^5.13.1",
     "ahooks": "^3.7.7",
@@ -21,11 +23,14 @@
     "lodash": "^4.17.21",
     "react-infinite-scroll-component": "^6.1.0",
     "react-lazy-load-image-component": "^1.5.6",
+    "react-player": "^2.12.0",
     "umi": "^4.0.69"
   },
   "devDependencies": {
+    "@types/lodash": "^4.14.195",
     "@types/react": "^18.0.33",
     "@types/react-dom": "^18.0.11",
+    "@types/react-lazy-load-image-component": "^1.5.3",
     "typescript": "^5.0.3"
   }
 }
